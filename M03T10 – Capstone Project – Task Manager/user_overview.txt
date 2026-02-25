@@ -1,0 +1,24 @@
+Total users: 3
+Total tasks: 4
+
+User: admin
+  Total tasks assigned: 1
+  Percentage of total tasks assigned: 25.00%
+  Percentage completed: 100.00%
+  Percentage uncompleted: 0.00%
+  Percentage overdue: 0.00%
+
+User: tk26
+  Total tasks assigned: 3
+  Percentage of total tasks assigned: 75.00%
+  Percentage completed: 33.33%
+  Percentage uncompleted: 66.67%
+  Percentage overdue: 0.00%
+
+User: sp1
+  Total tasks assigned: 0
+  Percentage of total tasks assigned: 0.00%
+  Percentage completed: 0.00%
+  Percentage uncompleted: 0.00%
+  Percentage overdue: 0.00%
+
